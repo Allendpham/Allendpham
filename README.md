@@ -36,7 +36,7 @@ I am a Texas A&M Mechanical Engineer 🦾 turned Hip Hop Dance Instructor 🕺 t
               <a href ="https://aa-clawdragonfood.onrender.com"><img src="https://i.imgur.com/mPUOAfG.png" width="200"/></a> <div>ClawDragon Food: A Full-Stack <a href="https://snapdragonfood.com/">SnapDragon Food</a> Clone</div>
       </div>
    </div>
-- 💻 I graduated from App Academy December 2022 and have gathered skills in Javascript, Python, React, Redux, to name a few.
+- 💻 I graduated from App Academy December 2022 and have gathered skills in Javascript, Python, React, Redux, Express.js, and Flask to name a few.
 
 - 🦾 I graduated from Texas A&M University with a B.S. Mechanical Engineering Class of 2016.
 
