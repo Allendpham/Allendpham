@@ -7,11 +7,11 @@ I am a Texas A&M Mechanical Engineer 🦾 turned Hip Hop Dance Instructor 🕺 t
 <div id="header" align="center">
   <img src="https://i.imgur.com/aNq4G0j.gif" width="200"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/allen-pham/">
+  <a href="https://www.linkedin.com/in/allen-pham/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     
-  <a href="https://angel.co/u/allen-pham-2">
+  <a href="https://angel.co/u/allen-pham-2" target="_blank">
     <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
   </a>
   </div>
@@ -23,17 +23,17 @@ I am a Texas A&M Mechanical Engineer 🦾 turned Hip Hop Dance Instructor 🕺 t
 - 🧑🏽‍💻 I’m growing as a Software Engineer and proud to have created these fullstack applications:
    <div id='projects' align="center">
             <div id='earthbnb' align="center">
-              <a href ="https://airbnb-aa-adpham.herokuapp.com/"><img src="https://i.imgur.com/82DMOew.png" width="200"/></a> <div>EarthBnB: A Full-Stack <a href="https://www.airbnb.com/">AirBnB</a> Clone</div>
+              <a href ="https://airbnb-aa-adpham.herokuapp.com/" target="_blank"><img src="https://i.imgur.com/82DMOew.png" width="200"/></a> <div>EarthBnB: A Full-Stack <a href="https://www.airbnb.com/" target="_blank">AirBnB</a> Clone</div>
       </div>
    <br>
    <div id='projects' align="center">
             <div id='zonar' align="center">
-              <a href ="https://aa-zonar.onrender.com"><img src="https://i.imgur.com/9qICNx0.png" width="200"/></a> <div>Zonar: A Full-Stack <a href="https://discord.com/">Discord</a> Clone</div>
+              <a href ="https://aa-zonar.onrender.com" target="_blank"><img src="https://i.imgur.com/9qICNx0.png" width="200"/></a> <div>Zonar: A Full-Stack <a href="https://discord.com/" target="_blank">Discord</a> Clone</div>
       </div>
    <br>
    <div id='projects' align="center">
             <div id='clawdragon' align="center">
-              <a href ="https://aa-clawdragonfood.onrender.com"><img src="https://i.imgur.com/mPUOAfG.png" width="200"/></a> <div>ClawDragon Food: A Full-Stack <a href="https://snapdragonfood.com/">SnapDragon Food</a> Clone</div>
+              <a href ="https://aa-clawdragonfood.onrender.com" target="_blank"><img src="https://i.imgur.com/mPUOAfG.png" width="200"/></a> <div>ClawDragon Food: A Full-Stack <a href="https://snapdragonfood.com/" target="_blank">SnapDragon Food</a> Clone</div>
       </div>
    </div>
 - 💻 I graduated from App Academy December 2022 and have gathered skills in Javascript, Python, React, Redux, Express.js, and Flask to name a few.
