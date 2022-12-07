@@ -23,17 +23,17 @@ I am a Texas A&M Mechanical Engineer 🦾 turned Hip Hop Dance Instructor 🕺 t
 - 🧑🏽‍💻 I’m growing as a Software Engineer and proud to have created these fullstack applications:
    <div id='projects' align="center">
             <div id='earthbnb' align="center">
-              <a href ="https://airbnb-aa-adpham.herokuapp.com/" target="_blank"><img src="https://i.imgur.com/82DMOew.png" width="200"/></a> <div>EarthBnB: A Full-Stack <a href="https://www.airbnb.com/" target="_blank">AirBnB</a> Clone</div>
+              <a href="https://airbnb-aa-adpham.herokuapp.com/" target="_blank"><img src="https://i.imgur.com/82DMOew.png" width="200"/></a> <div>EarthBnB: A Full-Stack <a href="https://www.airbnb.com/" target="_blank">AirBnB</a> Clone</div>
       </div>
    <br>
    <div id='projects' align="center">
             <div id='zonar' align="center">
-              <a href ="https://aa-zonar.onrender.com" target="_blank"><img src="https://i.imgur.com/9qICNx0.png" width="200"/></a> <div>Zonar: A Full-Stack <a href="https://discord.com/" target="_blank">Discord</a> Clone</div>
+              <a href="https://aa-zonar.onrender.com" target="_blank"><img src="https://i.imgur.com/9qICNx0.png" width="200"/></a> <div>Zonar: A Full-Stack <a href="https://discord.com/" target="_blank">Discord</a> Clone</div>
       </div>
    <br>
    <div id='projects' align="center">
             <div id='clawdragon' align="center">
-              <a href ="https://aa-clawdragonfood.onrender.com" target="_blank"><img src="https://i.imgur.com/mPUOAfG.png" width="200"/></a> <div>ClawDragon Food: A Full-Stack <a href="https://snapdragonfood.com/" target="_blank">SnapDragon Food</a> Clone</div>
+              <a href="https://aa-clawdragonfood.onrender.com" target="_blank"><img src="https://i.imgur.com/mPUOAfG.png" width="200"/></a> <div>ClawDragon Food: A Full-Stack <a href="https://snapdragonfood.com/" target="_blank">SnapDragon Food</a> Clone</div>
       </div>
    </div>
 - 💻 I graduated from App Academy December 2022 and have gathered skills in Javascript, Python, React, Redux, Express.js, and Flask to name a few.
