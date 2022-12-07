@@ -7,12 +7,17 @@ I am a Texas A&M Mechanical Engineer 🦾 turned Hip Hop Dance Instructor 🕺 t
 <div id="header" align="center">
   <img src="https://i.imgur.com/aNq4G0j.gif" width="200"/>
   <div id="badges">
+  
   <a href="https://www.linkedin.com/in/allen-pham/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     
   <a href="https://angel.co/u/allen-pham-2" target="_blank">
     <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
+  </a>
+    
+  <a href="mailto:allendpham@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   </div>
 </div>
