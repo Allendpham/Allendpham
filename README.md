@@ -17,3 +17,30 @@ I am a Texas A&M Mechanical Engineer 🦾 turned Hip Hop Dance Instructor 🕺 t
   </div>
 </div>
 
+---
+
+### About Me : 
+- 🧑🏽‍💻 I’m growing as a Software Engineer and proud to have created these fullstack applications:
+   <div id='projects' align="center">
+            <div id='earthbnb' align="center">
+              <a href ="https://airbnb-aa-adpham.herokuapp.com/"><img src="https://i.imgur.com/82DMOew.png" width="200"/></a> <div>EarthBnB: A Full-Stack <a href="https://www.airbnb.com/">AirBnB</a> Clone</div>
+      </div>
+   <br>
+   <div id='projects' align="center">
+            <div id='zonar' align="center">
+              <a href ="https://aa-zonar.onrender.com"><img src="https://i.imgur.com/9qICNx0.png" width="200"/></a> <div>Zonar: A Full-Stack <a href="https://discord.com/">Discord</a> Clone</div>
+      </div>
+   <br>
+   <div id='projects' align="center">
+            <div id='clawdragon' align="center">
+              <a href ="https://aa-clawdragonfood.onrender.com"><img src="https://i.imgur.com/mPUOAfG.png" width="200"/></a> <div>ClawDragon Food: A Full-Stack <a href="https://snapdragonfood.com/">SnapDragon Food</a> Clone</div>
+      </div>
+   </div>
+- 💻 I graduated from App Academy December 2022 and have gathered skills in Javascript, Python, React, Redux, to name a few.
+
+- 🦾 I graduated from Texas A&M University with a B.S. Mechanical Engineering Class of 2016.
+
+- 🕺 I have performed, traveled, and taught hip hop dance for nearly 8 years.
+
+- In my free time, I enjoy 🎮 gaming, 🪨 rock climbing, 🎳 bowling, and 😀 quality time with friends and family.
+
