@@ -50,6 +50,6 @@ I am a Texas A&M Mechanical Engineer 🦾 turned Hip Hop Dance Instructor 🕺 t
 - In my free time, I enjoy 🎮 gaming, 🪨 rock climbing, 🎳 bowling, and 😀 quality time with friends and family.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allendpham&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allendpham&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allendpham&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allendpham&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  -->
 
